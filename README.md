@@ -1,0 +1,2 @@
+# foreach
+studying foreach c#
