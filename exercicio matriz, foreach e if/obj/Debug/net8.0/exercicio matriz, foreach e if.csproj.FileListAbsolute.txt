@@ -1,0 +1,14 @@
+D:\.Estudo\c#\exercicio matriz, foreach e if\obj\Debug\net8.0\exercicio matriz, foreach e if.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Estudo\c#\exercicio matriz, foreach e if\obj\Debug\net8.0\exercicio matriz, foreach e if.AssemblyInfoInputs.cache
+D:\.Estudo\c#\exercicio matriz, foreach e if\obj\Debug\net8.0\exercicio matriz, foreach e if.AssemblyInfo.cs
+D:\.Estudo\c#\exercicio matriz, foreach e if\obj\Debug\net8.0\exercicio matriz, foreach e if.csproj.CoreCompileInputs.cache
+D:\.Estudo\c#\exercicio matriz, foreach e if\bin\Debug\net8.0\exercicio matriz, foreach e if.exe
+D:\.Estudo\c#\exercicio matriz, foreach e if\bin\Debug\net8.0\exercicio matriz, foreach e if.deps.json
+D:\.Estudo\c#\exercicio matriz, foreach e if\bin\Debug\net8.0\exercicio matriz, foreach e if.runtimeconfig.json
+D:\.Estudo\c#\exercicio matriz, foreach e if\bin\Debug\net8.0\exercicio matriz, foreach e if.dll
+D:\.Estudo\c#\exercicio matriz, foreach e if\bin\Debug\net8.0\exercicio matriz, foreach e if.pdb
+D:\.Estudo\c#\exercicio matriz, foreach e if\obj\Debug\net8.0\exercicio matriz, foreach e if.dll
+D:\.Estudo\c#\exercicio matriz, foreach e if\obj\Debug\net8.0\refint\exercicio matriz, foreach e if.dll
+D:\.Estudo\c#\exercicio matriz, foreach e if\obj\Debug\net8.0\exercicio matriz, foreach e if.pdb
+D:\.Estudo\c#\exercicio matriz, foreach e if\obj\Debug\net8.0\exercicio matriz, foreach e if.genruntimeconfig.cache
+D:\.Estudo\c#\exercicio matriz, foreach e if\obj\Debug\net8.0\ref\exercicio matriz, foreach e if.dll
